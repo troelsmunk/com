@@ -1,0 +1,68 @@
+<svg viewBox="-100 -100 200 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <g id="f0">
+            <line x1="0" y1="-50" x2="0" y2="50" stroke="black" vector-effect="non-scaling-stroke" />
+        </g>
+        <g id="f1" >
+            <use href="#f0" transform="matrix(0.25, 0.25, -0.25, 0.25, -12.5 ,-37.5)"/>
+            <use href="#f0" transform="matrix(0.5, -0.5, 0.5, 0.5, 0, 0)"/>
+            <use href="#f0" transform="matrix(0.25, 0.25, -0.25, 0.25, 12.5, 37.5)"/>
+        </g>
+        <g id="f2" >
+            <use href="#f1" transform="matrix(0.25, 0.25, -0.25, 0.25, -12.5 ,-37.5)"/>
+            <use href="#f1" transform="matrix(0.5, -0.5, 0.5, 0.5, 0, 0)"/>
+            <use href="#f1" transform="matrix(0.25, 0.25, -0.25, 0.25, 12.5, 37.5)"/>
+        </g>
+        <g id="f3" >
+            <use href="#f2" transform="matrix(0.25, 0.25, -0.25, 0.25, -12.5 ,-37.5)"/>
+            <use href="#f2" transform="matrix(0.5, -0.5, 0.5, 0.5, 0, 0)"/>
+            <use href="#f2" transform="matrix(0.25, 0.25, -0.25, 0.25, 12.5, 37.5)"/>
+        </g>
+        <g id="f4" >
+            <use href="#f3" transform="matrix(0.25, 0.25, -0.25, 0.25, -12.5 ,-37.5)"/>
+            <use href="#f3" transform="matrix(0.5, -0.5, 0.5, 0.5, 0, 0)"/>
+            <use href="#f3" transform="matrix(0.25, 0.25, -0.25, 0.25, 12.5, 37.5)"/>
+        </g>
+        <g id="f5" >
+            <use href="#f4" transform="matrix(0.25, 0.25, -0.25, 0.25, -12.5 ,-37.5)"/>
+            <use href="#f4" transform="matrix(0.5, -0.5, 0.5, 0.5, 0, 0)"/>
+            <use href="#f4" transform="matrix(0.25, 0.25, -0.25, 0.25, 12.5, 37.5)"/>
+        </g>
+        <g id="f6" >
+            <use href="#f5" transform="matrix(0.25, 0.25, -0.25, 0.25, -12.5 ,-37.5)"/>
+            <use href="#f5" transform="matrix(0.5, -0.5, 0.5, 0.5, 0, 0)"/>
+            <use href="#f5" transform="matrix(0.25, 0.25, -0.25, 0.25, 12.5, 37.5)"/>
+        </g>
+        <g id="f7" >
+            <use href="#f6" transform="matrix(0.25, 0.25, -0.25, 0.25, -12.5 ,-37.5)"/>
+            <use href="#f6" transform="matrix(0.5, -0.5, 0.5, 0.5, 0, 0)"/>
+            <use href="#f6" transform="matrix(0.25, 0.25, -0.25, 0.25, 12.5, 37.5)"/>
+        </g>
+        <g id="f8" >
+            <use href="#f7" transform="matrix(0.25, 0.25, -0.25, 0.25, -12.5 ,-37.5)"/>
+            <use href="#f7" transform="matrix(0.5, -0.5, 0.5, 0.5, 0, 0)"/>
+            <use href="#f7" transform="matrix(0.25, 0.25, -0.25, 0.25, 12.5, 37.5)"/>
+        </g>
+        <g id="f9" >
+            <use href="#f8" transform="matrix(0.25, 0.25, -0.25, 0.25, -12.5 ,-37.5)"/>
+            <use href="#f8" transform="matrix(0.5, -0.5, 0.5, 0.5, 0, 0)"/>
+            <use href="#f8" transform="matrix(0.25, 0.25, -0.25, 0.25, 12.5, 37.5)"/>
+        </g>
+        <g id="f10" >
+            <use href="#f9" transform="matrix(0.25, 0.25, -0.25, 0.25, -12.5 ,-37.5)"/>
+            <use href="#f9" transform="matrix(0.5, -0.5, 0.5, 0.5, 0, 0)"/>
+            <use href="#f9" transform="matrix(0.25, 0.25, -0.25, 0.25, 12.5, 37.5)"/>
+        </g>
+        <g id="f11" >
+            <use href="#f10" transform="matrix(0.25, 0.25, -0.25, 0.25, -12.5 ,-37.5)"/>
+            <use href="#f10" transform="matrix(0.5, -0.5, 0.5, 0.5, 0, 0)"/>
+            <use href="#f10" transform="matrix(0.25, 0.25, -0.25, 0.25, 12.5, 37.5)"/>
+        </g>
+        <g id="f12" >
+            <use href="#f11" transform="matrix(0.25, 0.25, -0.25, 0.25, -12.5 ,-37.5)"/>
+            <use href="#f11" transform="matrix(0.5, -0.5, 0.5, 0.5, 0, 0)"/>
+            <use href="#f11" transform="matrix(0.25, 0.25, -0.25, 0.25, 12.5, 37.5)"/>
+        </g>
+    </defs>
+    <use href="#f12"/>
+</svg>

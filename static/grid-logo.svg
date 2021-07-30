@@ -1,0 +1,8 @@
+<svg width="680" height="1090" viewBox="-34 -54.5 68 109" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <g id="f0">
+            <line x1="0" y1="-50" x2="0" y2="50" stroke="black" vector-effect="non-scaling-stroke" />
+        </g>
+    </defs>
+    <use href="#f5"/>
+</svg>
