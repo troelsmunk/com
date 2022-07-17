@@ -1,12 +1,10 @@
 # Build directory 
 /.svelte-kit
-# Build files for adapter functions
-/functions/kitSSR
 
 # Logs
 logs
 *.log
 npm-debug.log*
 
-# Dependency directorys
+# Dependency directory
 node_modules/
