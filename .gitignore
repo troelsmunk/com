@@ -1,5 +1,6 @@
 # Build directory 
 /.svelte-kit
+# Build files for adapter functions
 /functions/kitSSR
 
 # Logs
