@@ -1,5 +1,6 @@
 # Build directory 
-/.svelte-kit/
+/.svelte-kit
+/functions/kitSSR
 
 # Logs
 logs
@@ -8,7 +9,3 @@ npm-debug.log*
 
 # Dependency directorys
 node_modules/
-
-# dotenv environment variables file
-.env
-.env.*
