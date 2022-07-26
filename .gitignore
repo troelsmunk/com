@@ -1,5 +1,7 @@
-# Build directory 
+# Build
 /.svelte-kit
+kitSSR/
+/.firebase
 
 # Logs
 logs
@@ -8,6 +10,3 @@ npm-debug.log*
 
 # Dependency directory
 node_modules/
-
-# Build files for adapter functions
-kitSSR/
