@@ -1,7 +1,7 @@
 module.exports = {
   root: true,
   parserOptions: {
-    "ecmaVersion": 2018,
+    "ecmaVersion": 2021,
   },
   env: {
     es6: true,
@@ -10,8 +10,10 @@ module.exports = {
   extends: [
     "eslint:recommended",
     "google",
+    "plugin:n/recommended",
   ],
   rules: {
-    quotes: ["error", "double"],
+    "quotes": ["error", "double"],
+    "n/no-unsupported-features/es-syntax": ["error", "warn"],
   },
 };
