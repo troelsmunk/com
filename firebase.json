@@ -1,0 +1,31 @@
+{
+  "hosting": {
+    "public": ".svelte-kit/build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "function": "kitSSR",
+        "region": "europe-west1"
+      }
+    ]
+  },
+  "emulators": {
+    "hosting": {
+      "port": 5000
+    },
+    "ui": {
+      "enabled": true
+    },
+    "functions": {
+      "port": 5001
+    }
+  },
+  "functions": {
+    "source": "functions"
+  }
+}

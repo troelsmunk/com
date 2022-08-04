@@ -9,7 +9,7 @@
         src="data:image/svg+xml;charset=UTF-8,%3Csvg viewBox='-25 -50 55 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3Cg id='f0'%3E%3Cline x1='0' y1='-50' x2='0' y2='50' stroke='black' vector-effect='non-scaling-stroke' /%3E%3C/g%3E%3Cg id='f1' %3E%3Cuse href='%23f0' transform='matrix(0.25, 0.25, -0.25, 0.25, -12.5 ,-37.5)'/%3E%3Cuse href='%23f0' transform='matrix(0.5, -0.5, 0.5, 0.5, 0, 0)'/%3E%3Cuse href='%23f0' transform='matrix(0.25, 0.25, -0.25, 0.25, 12.5, 37.5)'/%3E%3C/g%3E%3Cg id='f2' %3E%3Cuse href='%23f1' transform='matrix(0.25, 0.25, -0.25, 0.25, -12.5 ,-37.5)'/%3E%3Cuse href='%23f1' transform='matrix(0.5, -0.5, 0.5, 0.5, 0, 0)'/%3E%3Cuse href='%23f1' transform='matrix(0.25, 0.25, -0.25, 0.25, 12.5, 37.5)'/%3E%3C/g%3E%3C/defs%3E%3Cuse href='%23f2'/%3E%3C/svg%3E">
     <img class="r-fractal"
         alt="full-fractal"
-        src="../static/third3.png">
+        src="/third3.png">
     <div class=greeting>
         <p class=hello>Hello, my name is</p>
         <div class="line line1"></div>

@@ -1,14 +1,12 @@
-# Build directory 
-/.svelte-kit/
+# Build
+/.svelte-kit
+kitSSR/
+/.firebase
 
 # Logs
 logs
 *.log
 npm-debug.log*
 
-# Dependency directorys
+# Dependency directory
 node_modules/
-
-# dotenv environment variables file
-.env
-.env.*
