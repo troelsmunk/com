@@ -1,7 +1,7 @@
 const functions = require("firebase-functions");
 
 let kitSSRServer;
-exports.kitSSR = functions.region("us-central1").https.onRequest(
+exports.kitSSR = functions.region("europe-west1").https.onRequest(
     async (request, response) => {
       if (!kitSSRServer) {
         functions.logger.info("Initialising SvelteKit SSR entry");

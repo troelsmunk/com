@@ -9,7 +9,8 @@
     "rewrites": [
       {
         "source": "**",
-        "function": "kitSSR"
+        "function": "kitSSR",
+        "region": "europe-west1"
       }
     ]
   },
