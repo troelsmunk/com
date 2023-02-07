@@ -18,7 +18,7 @@
         <div class="line line3"></div>
     </div>
     <div class=info>
-        <p>Soon you can try my app: 
+        <p>At some point you can try my app: 
             <a href="https://auction.troelsmunk.com">Blind Auction Drafting</a>
         </p>
         <p>Contact me at tm@troelsmunk.com</p>
