@@ -4,13 +4,7 @@
 .netlify
 .wrangler
 /.svelte-kit
-kitSSR/
 /build
-
-# Logs
-logs
-*.log
-npm-debug.log*
 
 # OS
 .DS_Store
