@@ -5,7 +5,6 @@
 .wrangler
 /.svelte-kit
 kitSSR/
-/.firebase
 /build
 
 # Logs
