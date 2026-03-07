@@ -19,10 +19,10 @@
   </div>
   <div class="info">
     <p>
-      You can try my app here:
-      <a href="https://blind-auction-draft.web.app/">Blind Auction Drafting</a>
+      I made this webapp:
+      <a href="https://auction.troelsmunk.com/">Blind Auction Drafting</a>
     </p>
-    <p>Contact me at tm@troelsmunk.com</p>
+    <p>You can contact me at tm@troelsmunk.com</p>
   </div>
 </div>
 
