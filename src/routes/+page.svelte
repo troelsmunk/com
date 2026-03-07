@@ -27,27 +27,29 @@
 </div>
 
 <style>
-@font-face {
-    font-family: 'Alte Haas Grotesk';
-    src: url('AlteHaasGrotesk_Bold.woff2') format('woff2'),
-        url('AlteHaasGrotesk_Bold.woff') format('woff');
+  @font-face {
+    font-family: "Alte Haas Grotesk";
+    src:
+      url("AlteHaasGrotesk_Bold.woff2") format("woff2"),
+      url("AlteHaasGrotesk_Bold.woff") format("woff");
     font-weight: bold;
     font-style: normal;
     font-display: swap;
-}
+  }
 
-@font-face {
-    font-family: 'Alte Haas Grotesk';
-    src: url('AlteHaasGrotesk.woff2') format('woff2'),
-        url('AlteHaasGrotesk.woff') format('woff');
+  @font-face {
+    font-family: "Alte Haas Grotesk";
+    src:
+      url("AlteHaasGrotesk.woff2") format("woff2"),
+      url("AlteHaasGrotesk.woff") format("woff");
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-}
+  }
 
   :root {
     --length: 7em;
-    font-family:'Alte Haas Grotesk' ,sans-serif;
+    font-family: "Alte Haas Grotesk", sans-serif;
   }
 
   .container {
