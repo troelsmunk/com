@@ -38,13 +38,12 @@
   }
 
   :root {
-    --length: 7em;
     font-family: "Alte Haas Grotesk", sans-serif;
   }
 
   .container {
-    max-width: 60em;
-    margin: 3em auto;
+    max-width: 50em;
+    margin: 1em auto;
   }
 
   .greeting {
@@ -52,13 +51,14 @@
   }
 
   .name {
+    margin-block-start: 0em;
     font-size: 3rem;
-    margin: 1em;
+    margin-left: 0.5em;
   }
 
   .troels {
     height: 20em;
     float: right;
-    shape-outside: polygon(25% 0%, 100% 50%, 0% 80%, 0% 45%);
+    margin: -1em 0em 2em 0em;
   }
 </style>
